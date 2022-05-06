@@ -1,0 +1,19 @@
+h3 {
+    color: brown;
+}
+
+ul {
+    color: purple;
+}
+
+p {
+    color: red;
+    text-align: left;
+}
+
+
+
+ol {
+    color: blue;
+    size: 10px;
+}

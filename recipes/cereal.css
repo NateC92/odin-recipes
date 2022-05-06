@@ -1,0 +1,22 @@
+* {
+    background-color: lightpink;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+li {
+    color: white;
+    background-color: darkgrey;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
